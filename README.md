@@ -27,6 +27,8 @@ Each JPEG block is analyzed by:
 3. Extracting spatial and DCT features
 
 ---
+#dataset we used was 
+https://www.kaggle.com/datasets/flamense160/ucid-dataset
 
 ## 📂 Project Structure
 (Put your datset here before running the code)
