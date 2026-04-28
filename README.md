@@ -1,4 +1,4 @@
-# Double JPEG Compression Detection (Block-Level)
+# Double JPEG Compression Detection Detection
 
 This project implements a system to detect **single vs double JPEG compression** at the **8×8 block level**, based on the IEEE MLSP 2020 paper:
 
