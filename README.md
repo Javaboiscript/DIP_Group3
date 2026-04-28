@@ -57,8 +57,12 @@ DIP_Group3.ipynb
 ---
 
 ## 📜 Reference
-
-IEEE MLSP 2020 Paper
-
+DOUBLE JPEG COMPRESSION DETECTION FOR DISTINGUISHABLE BLOCKS
+IN IMAGES COMPRESSED WITH SAME QUANTIZATION MATRIX
+Abhinav Narayan Harish
+Vinay Verma
+Nitin Khanna
+Multimedia Analysis and Security (MANAS) Lab, Electrical Engineering,
+Indian Institute of Technology Gandhinagar (IITGN), Gujarat, India
 
 
